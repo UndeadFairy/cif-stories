@@ -1,19 +1,5 @@
 [
   {
-    "title": "POLARIS for navigation in ice",
-    "cover-image": "https://raw.githubusercontent.com/BlackCA/cif-stories/refs/heads/BlackCA/polarwarp/assets/BlackCA/polaris.png",
-    "theme": [
-      "shipping"
-    ],
-    "date": "2025-01-01",
-    "tags": [
-      "tag1"
-    ],
-    "official": true,
-    "image": "assets/previews/polaris_preview.png",
-    "file": "https://gtif-cerulean.github.io/cif-stories/capabilitypolariscalculation.md"
-  },
-  {
     "title": "Structure Icing",
     "theme": [
       "energy"
@@ -28,7 +14,24 @@
     "file": "https://gtif-cerulean.github.io/cif-stories/structureicing.md"
   },
   {
+    "title": "Sea Ice Motion Animation",
+    "theme": [
+      "shipping"
+    ],
+    "cover-image": "https://github.com/BlackCA/cif-stories/blob/BlackCA/polarwarp/assets/BlackCA/BAS-Polarstern-Shackleton.jpg?raw=true",
+    "date": "2025-01-01",
+    "tags": [
+      "tag1"
+    ],
+    "official": true,
+    "image": "assets/previews/BAS-Polarstern-Shackleton_preview.png",
+    "file": "https://gtif-cerulean.github.io/cif-stories/seaicemotionanimation.md"
+  },
+  {
     "title": "The Cerulean Information Factory",
+    "theme": [
+      "At-a-glance"
+    ],
     "cover-image": "https://github.com/BlackCA/cif-stories/blob/BlackCA/2ndupdates-20260210/assets/BlackCA/SeaIceAge.png?raw=true",
     "date": "2025-01-01",
     "tags": [
@@ -38,5 +41,19 @@
     "subtitle": " ",
     "image": "assets/previews/SeaIceAge_preview.png",
     "file": "https://gtif-cerulean.github.io/cif-stories/cifprojectoverviewstory.md"
+  },
+  {
+    "title": "POLARIS for navigation in ice",
+    "cover-image": "https://raw.githubusercontent.com/BlackCA/cif-stories/refs/heads/BlackCA/polarwarp/assets/BlackCA/polaris.png",
+    "theme": [
+      "shipping"
+    ],
+    "date": "2025-01-01",
+    "tags": [
+      "tag1"
+    ],
+    "official": true,
+    "image": "assets/previews/polaris_preview.png",
+    "file": "https://gtif-cerulean.github.io/cif-stories/capabilitypolariscalculation.md"
   }
 ]
